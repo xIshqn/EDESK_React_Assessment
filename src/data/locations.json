@@ -1,0 +1,77 @@
+[
+  {
+    "id": "usa",
+    "label": "USA",
+    "children": [
+      {
+        "id": "usa-ny",
+        "label": "New York",
+        "children": [
+          { "id": "usa-ny-nyc", "label": "New York city" },
+          { "id": "usa-ny-buffalo", "label": "Buffalo" },
+          { "id": "usa-ny-albany", "label": "Albany" }
+        ]
+      },
+      {
+        "id": "usa-al",
+        "label": "Alabama",
+        "children": [
+          { "id": "usa-al-birmingham", "label": "Birmingham" },
+          { "id": "usa-al-montgomery", "label": "Montgomery" }
+        ]
+      },
+      {
+        "id": "usa-ca",
+        "label": "California",
+        "children": [
+          { "id": "usa-ca-la", "label": "Los Angeles" },
+          { "id": "usa-ca-sf", "label": "San Francisco" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "canada",
+    "label": "Canada",
+    "children": [
+      {
+        "id": "canada-on",
+        "label": "Ontario",
+        "children": [
+          { "id": "canada-on-toronto", "label": "Toronto" },
+          { "id": "canada-on-ottawa", "label": "Ottawa" }
+        ]
+      },
+      {
+        "id": "canada-bc",
+        "label": "British Columbia",
+        "children": [
+          { "id": "canada-bc-vancouver", "label": "Vancouver" },
+          { "id": "canada-bc-victoria", "label": "Victoria" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "australia",
+    "label": "Australia",
+    "children": [
+      {
+        "id": "australia-nsw",
+        "label": "New South Wales",
+        "children": [
+          { "id": "australia-nsw-sydney", "label": "Sydney" },
+          { "id": "australia-nsw-newcastle", "label": "Newcastle" }
+        ]
+      },
+      {
+        "id": "australia-qld",
+        "label": "Queensland",
+        "children": [
+          { "id": "australia-qld-brisbane", "label": "Brisbane" },
+          { "id": "australia-qld-cairns", "label": "Cairns" }
+        ]
+      }
+    ]
+  }
+]
